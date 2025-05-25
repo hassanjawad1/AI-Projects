@@ -103,10 +103,35 @@ print(rule_based_translate("سائين مان اسڪول وڃان"))
 ```
 ## 📸 Translation App Screenshots
 
+## 📸 Project Screenshots
+
 ![UI Preview](images/1.png)
+*Main user interface showing English to Sindhi translation*
+
 ![Example 1](images/2.png)
+*Model translating simple English sentence*
+
 ![Example 2](images/3.png)
+*Fine-tuned transformer results*
+
 ![Example 3](images/4.png)
+*Rule-based Sindhi to English output preview*
+
+---
+
+## ✍️ Author
+
+**Jawad Ahmed Jamali**  
+_“Preserving language through code.”_  
+🔗 [GitHub](#) • 💬 [LinkedIn](#) • 📧 [Email](#)
+
+> _(Add your actual links above if you want them clickable)_
+
+---
+
+## 🏁 License
+
+**MIT License** — use it, remix it, improve it, share it.
 
 
 ---
